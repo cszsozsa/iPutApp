@@ -1,0 +1,12 @@
+C:\Users\Zsolca\source\repos\iPutApp\iPutApp\bin\Debug\iPutApp.exe.config
+C:\Users\Zsolca\source\repos\iPutApp\iPutApp\bin\Debug\iPutApp.exe
+C:\Users\Zsolca\source\repos\iPutApp\iPutApp\bin\Debug\iPutApp.pdb
+C:\Users\Zsolca\source\repos\iPutApp\iPutApp\obj\Debug\iPutApp.csprojAssemblyReference.cache
+C:\Users\Zsolca\source\repos\iPutApp\iPutApp\obj\Debug\iPutApp.Form1.resources
+C:\Users\Zsolca\source\repos\iPutApp\iPutApp\obj\Debug\iPutApp.Properties.Resources.resources
+C:\Users\Zsolca\source\repos\iPutApp\iPutApp\obj\Debug\iPutApp.csproj.GenerateResource.cache
+C:\Users\Zsolca\source\repos\iPutApp\iPutApp\obj\Debug\iPutApp.exe
+C:\Users\Zsolca\source\repos\iPutApp\iPutApp\obj\Debug\iPutApp.pdb
+C:\Users\Zsolca\source\repos\iPutApp\iPutApp\bin\Debug\InputForms.dll
+C:\Users\Zsolca\source\repos\iPutApp\iPutApp\bin\Debug\InputForms.pdb
+C:\Users\Zsolca\source\repos\iPutApp\iPutApp\obj\Debug\iPutApp.csproj.CopyComplete
